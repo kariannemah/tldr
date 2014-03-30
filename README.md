@@ -3,6 +3,8 @@ Samizdat
 
 Currently reading: Capital in the Twenty-First Century, Thomas Piketty
 
+[Discussion of the book](http://www.economist.com/blogs/freeexchange/2014/02/book-clubs#comments) on The Economist's Free Exchange blog
+
 Discussion via Google Hangout: TBD
 
 ###Recommended Reading
