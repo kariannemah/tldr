@@ -15,13 +15,13 @@ Schedule
 -----------
 We'll meet on Google+ Hangout.
 
-Introduction and Part One: May 6
+May 6: Introduction and Part One
 
-Part Two: May 20
+May 20: Part Two
 
-Part Three: June 10
+June 10: Part Three
 
-Part Four and Conlusion: June 22
+June 22: Part Four and Conclusion
 
 Possible future picks
 -------------------
