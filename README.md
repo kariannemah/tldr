@@ -1,13 +1,30 @@
-Samizdat
+The Longue Durée Ring
 ========
 
-Currently reading: Capital in the Twenty-First Century, Thomas Piketty
+“To know all the evidence. Ideally the student should never consider less than the total of the historical material which may conceivably be relevant to his enquiry. Though in many circumstances this will be an impossible counsel of perfection, it remains the only proper ambition.” 
+—G.R. Elton, _The Practice of History_*
 
-[Discussion of the book](http://www.economist.com/blogs/freeexchange/2014/02/book-clubs#comments) on The Economist's Free Exchange blog
+Who are we?
+-----------
 
-Discussion via Google Hangout: TBD
+We are a book club. We try to take the long view. Join us!
 
-###Recommended Reading
+Our first book is _Capital in the Twenty-First Century_ by Thomas Piketty. To whet your appetite, here's a [discussion of the book](http://www.economist.com/blogs/freeexchange/2014/02/book-clubs#comments) on The Economist's Free Exchange blog.
+
+Schedule
+-----------
+We'll meet on Google+ Hangout.
+
+Introduction and Part One: May 6
+
+Part Two: May 20
+
+Part Three: June 10
+
+Part Four and Conlusion: June 22
+
+Possible future picks
+-------------------
 
 David Harvey: Limits of Capital, Brief Introduction to Neoliberalism
 
@@ -38,3 +55,6 @@ John Bellamy Foster: Marx's Ecology: Materialism and Nature (2000)
 Silvia Federici: Point Zero: Housework, Reproduction, and Feminist Struggle (2012)
 
 Lewis Mumford: Technics and Civilization (1934)
+
+______
+*[Same as it ever was.](http://fictivekin.wordpress.com/)
