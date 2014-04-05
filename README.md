@@ -9,7 +9,7 @@ Who are we?
 
 We are a book club. We try to take the long view. Join us!
 
-Our first book is _Capital in the Twenty-First Century_ by Thomas Piketty. To whet your appetite, here's a [discussion of the book](http://www.economist.com/blogs/freeexchange/2014/02/book-clubs#comments) on The Economist's Free Exchange blog.
+Our first book is _Capital in the Twenty-First Century_ by Thomas Piketty. To whet your appetite, here's a [discussion of the book](http://www.economist.com/blogs/freeexchange/2014/02/book-clubs#comments) on The Economist's Free Exchange blog. A [review by James K. Galbraith](http://www.dissentmagazine.org/article/kapital-for-the-twenty-first-century) in Dissent. [Doug Henwood's take in Bookforum.](http://www.bookforum.com/inprint/021_01/12987)
 
 Schedule
 -----------
@@ -26,19 +26,19 @@ June 22: Part Four and Conclusion
 Possible future picks
 -------------------
 
-David Harvey: Limits of Capital, Brief Introduction to Neoliberalism
+David Harvey: The Limits to Capital (2007), Brief History of Neoliberalism (2007)
 
-Robert Brenner: Economics of Global Turbulence
+Robert Brenner: The Economics of Global Turbulence (2006)
 
-David Graeber: Debt: The First 5,000 Years
+David Graeber: Debt: The First 5,000 Years (2012)
 
-Fredric Jameson: The Cultural Turn
+Fredric Jameson: The Cultural Turn (2009)
 
 Perry Anderson: Passages from Antiquity to Feudalism (1974), Lineages of Absolutist State (1974)
 
 Ellen Meiksins Wood: The Origin of Capitalism: A Longer View (2002)
 
-Kenneth Pomeranz: The Great Divergence: China, Europe, and the Making of the Modern World Economy
+Kenneth Pomeranz: The Great Divergence: China, Europe, and the Making of the Modern World Economy (2001)
 
 Eric Hobsbawm: The Age of Revolution (1962), The Age of Capital (1975), The Age of Empire (1987), The Age of Extremes (1994)
 
