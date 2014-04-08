@@ -2,7 +2,7 @@ The Longue Durée Ring
 ========
 
 “To know all the evidence. Ideally the student should never consider less than the total of the historical material which may conceivably be relevant to his enquiry. Though in many circumstances this will be an impossible counsel of perfection, it remains the only proper ambition.” 
-—G.R. Elton, _The Practice of History_*
+—G.R. Elton, _The Practice of History_
 
 Who are we?
 -----------
@@ -56,5 +56,4 @@ Silvia Federici: Point Zero: Housework, Reproduction, and Feminist Struggle (201
 
 Lewis Mumford: Technics and Civilization (1934)
 
-______
-*[Same as it ever was.](http://fictivekin.wordpress.com/)
+
