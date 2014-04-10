@@ -9,7 +9,7 @@ Who are we?
 
 We are a book club. We try to take the long view. Join us!
 
-Our first book is _Capital in the Twenty-First Century_ by Thomas Piketty. To whet your appetite, here's a [discussion of the book](http://www.economist.com/blogs/freeexchange/2014/02/book-clubs#comments) on The Economist's Free Exchange blog. A [review by James K. Galbraith](http://www.dissentmagazine.org/article/kapital-for-the-twenty-first-century) in Dissent. [Doug Henwood's take](http://www.bookforum.com/inprint/021_01/12987) in Bookforum. [A roundtable](http://prospect.org/article/piketty%E2%80%99s-triumph) at The American Prospect.
+Our first book is _Capital in the Twenty-First Century_ by Thomas Piketty. To whet your appetite, here's a [discussion of the book](http://www.economist.com/blogs/freeexchange/2014/02/book-clubs#comments) on The Economist's Free Exchange blog. A [review by James K. Galbraith](http://www.dissentmagazine.org/article/kapital-for-the-twenty-first-century) in Dissent. [Doug Henwood's take](http://www.bookforum.com/inprint/021_01/12987) in Bookforum. [A roundtable](http://prospect.org/article/piketty%E2%80%99s-triumph) at The American Prospect. [Krugman in NYRB.](http://www.nybooks.com/articles/archives/2014/may/08/thomas-piketty-new-gilded-age/)
 
 Schedule
 -----------
